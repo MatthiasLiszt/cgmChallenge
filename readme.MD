@@ -1,7 +1,7 @@
  ## GETTING STARTED
 
- To run the programming challenge execute start.sh 
- To run the the tests execute test.sh
+ - To run the programming challenge execute **start.sh** 
+ - To run the the tests execute **test.sh**
  
  ## TASK 
  
